@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<Title>About</title>
+    <script src="https://kit.fontawesome.com/123630e991.js" crossorigin="anonymous"></script>	
+	
+    
+	</head>
+    <style>
+     body {
+          background-image: url('image/websitebg.jpg');
+		  background-repeat: no-repeat;
+		  background-attachment:fixed ;
+          background-size:100%100%;
+		  font-family:Garamond ;	  
+		  
+          }
+		  
+	p    {
+	      background-color:#000000;
+		  color:white;
+		  background: rgba(0, 0, 0, 0.5);
+		  font-size:12px;
+		  width:80%;
+		  margin:auto;
+		  letter-spacing:0.2em;
+		  padding:20px;
+		  margin-top:20px;
+		  text-align: justify;
+
+		 
+	      
+	
+          }	
+		  
+	 A    {
+	      font-family:open sans;
+          color: white;
+          padding: 14px 25px;
+          text-decoration: none;
+          display: inline-block;
+		  font-size:14px;
+		  padding-left:200px;	 
+          font-family:cursive	
+		  align:center;
+		  
+	
+
+		  
+		  }
+
+	a:hover
+	      {
+     	  color: blue;
+		  
+	
+          }
+		  
+	.box  {
+	      border-bottom: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-left: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-right: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-top: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+
+		  padding:20px;
+		  margin-top:20px;
+		  background: rgba(0, 0, 0, 0.5);
+		  display:flex;
+      
+		  
+		  
+	      
+	      }
+	ul    {
+	      background-color:#000000;
+		  color:white;
+		  background: rgba(0, 0, 0, 0.5);
+		  font-size:12px;
+		  width:80%;
+		  margin:auto;
+		  letter-spacing:0.2em;
+		  padding:20px;
+		  margin-top:20px;
+		  text-align: justify;
+		  margin-left:20px;
+
+
+		  
+          }	
+	.navigation
+	      {
+	      margin-top:15px;
+		  margin-bottom:15px;
+		  margin-top:20px;
+		  position:relative;
+		  background: rgba(0, 0, 0, 0.5);
+	      border-bottom: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-left: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-right: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-top: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+
+		  }
+   
+		  
+		  
+		  	  
+	
+    .Wrapper
+	      {
+		  border-bottom: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-left: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-right: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+		  border-top: 3px solid transparent;
+          border-image: linear-gradient(to right, red , blue, purple);
+          border-image-slice: 6;
+
+		  padding:20px;
+		  margin-top:20px;
+		  background: rgba(0, 0, 0, 0.5);
+		  align-items: start;
+          display: flex;
+		  
+		  
+		  }
+ 
+  
+    img   {
+	      float:left;
+		  margin:10px;
+		  
+	      }
+	
+	#aboutwebsite_2
+	      {
+		  flex:1;
+	      }
+	
+	#achievements
+	      {
+		  flex:1;
+		  margin-left:20px;
+		  
+		  }
+
+    
+    
+   
+    
+    
+   
+   
+    
+		  
+    </style>
+    <body>
+	
+	<div class="navigation">
+    <a href="index.html"><i class="fas fa-home"></i>Home</a>
+    <a href="about.html"><i class="fas fa-book-open"></i>About</a>
+	<a href="track.html"><i class="fas fa-compact-disc"></i>Tracks</a>
+	<a href="contact.html"><i class="fas fa-address-book"></i>Contacts</a>
+	</div>
+	
+
+	<center><h1 style="font-weight:bold; color:#ffffff ;" class="Title">About Us</h1>
+    <div class="box">
+	
+	 
+	 <p>We all know that a harmonizer in music is a type of pitch shifter that combines
+         the "shifted" pitch with the original pitch to create a two or more-note harmony, and as we
+         represent it in our company and in our lives, we'd like to shift these artists' original compositions
+         to the level that they deserve by doing the great and phenomenal talent that they are showing. We
+         believe that our artists have earned the right to be well-known. It will be a music company that
+         assists artists in promoting their original compositions and sharing their music with those who
+         enjoy it by allowing them to stream their songs for free online. We also show the artists'
+         backgrounds and accomplishments.
+	</p>
+	
+	
+	 <ul>
+	    
+		<li>The company aims at helping country's underrated artists by promoting and sharing or putting their songs online, where anyone may listen to and stream them. </li>
+		<li>They can also discover more about the musician by looking up information on the artist's accomplishments and other albums or songs.  </li>
+		<li>We all know that a lot of people nowadays aim to be a famous and well-known singer, and as enthusiasts of the music industry, we'd like to lend a hand by assisting them in showcasing their original work and allowing us to serve as a stepping stone for them. We'll be overjoyed when we see our artist attain their goals</li>
+	 
+	 
+	 </ul>
+	</div>
+	
+	<center><h1 style="font-weight:bold; color:#ffffff ;" class="Title">Artists</h1>
+	<div class="Wrapper">
+	
+	
+	     <img src="image/Kervy.jpg" width="200px" alt="kervz"> 
+		 <p id="aboutwebsite_2">Hi I'm Dann Kervy or you can call me Kervy Im a Singer and a Composer as a child in the age of 6 years old.
+		    I develop my talent in singing to a karaoke and my parent support me through it. 
+		    I audition in the voice kids 2 times but I was not picked to be qualified in the blind audition 
+		    but I never give up I audition in the voice teens but again I was not selected.
+		    I decided to create a youtube channel and upload all of my original songs and covers and I was happy about the outcome and Im still developing all of my skills and talents.
+		 </p>
+		 
+		<ul id="achievements">
+	  
+			<li>2nd runner up HSU week Solo singing contest </li>
+			<li>Champion in Online Singing Contest  </li>
+			<li>10k total views on Youtube</li>
+			
+		</ul>
+	</div>
+	
+	
+
+	
+
+	
+    </body>
+</html>
